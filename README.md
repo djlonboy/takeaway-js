@@ -1,3 +1,3 @@
-#Takeaway Challenge - JS
+# Takeaway Challenge - JS
 
-###Stories Completed
+### Stories Completed
